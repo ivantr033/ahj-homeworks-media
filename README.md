@@ -1,9 +1,10 @@
 # Домашнее задание к занятию "10. Geolocation, Notification, Media" — Timeline
 
-[![Build Status](https://github.com)](https://github.com)
+[![Build Status](https://github.com/ivantr033/ahj-homeworks-media/actions/workflows/deploy.yml/badge.svg)](https://github.com/ivantr033/ahj-homeworks-media/actions/workflows/deploy.yml)
+
 
 ## 🌐 Ссылка на развертывание (GitHub Pages)
-*   **Timeline Application:** [Открыть приложение](https://github.io)
+*   **Timeline Application:** [Открыть приложение](https://ivantr033.github.io/ahj-homeworks-media/)
 
 ---
 
